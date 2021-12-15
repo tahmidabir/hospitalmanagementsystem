@@ -4,4 +4,5 @@ This is a Hospital Management System Project Based on Java Swing. The project ai
 
 The project is made in Netbeans with the help of Java swing  and Mysql Workbench is also used as the Database connector.
 
-![plot](./hospitalmanagementsystem/images/Login.jpg)
+
+![Alt text](hospitalmanagementsystem/images/Login.jpg?raw=true "Title")
