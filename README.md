@@ -11,7 +11,7 @@ The project is made in Netbeans with the help of Java swing  and Mysql Workbench
 
 ## Menu
 
-<img src="blob:https://imgur.com/4799698d-3662-4e71-a7ab-6fae4f46421a" >
+<img src="https://i.imgur.com/p6QV30r.jpg" >
 
 ## Patient Form
 
@@ -19,7 +19,7 @@ The project is made in Netbeans with the help of Java swing  and Mysql Workbench
 
 ## Doctor Availability
 
-<img src="blob:https://imgur.com/69ec3b68-6bae-4240-9370-6255ee7a9d43" >
+<img src="https://i.imgur.com/MHNWd7K.jpeg" >
 
 
 
